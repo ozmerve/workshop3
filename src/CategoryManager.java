@@ -23,7 +23,6 @@ class CategoryManager {
                 break;
             }
         }
-        //System.out.println("Hata");
     }
 
     public Categories getCategoryById(int id) {
